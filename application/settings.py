@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'chats',
     'users',
+    'blog',
     'social_django',
     'sslserver',
 ]
